@@ -19,7 +19,7 @@
     width: 100%;
     height: 5%;
 
-    background: #2189BF url("image/nav-header.png") repeat;
+    background: #2189BF url("../image/nav-header.png") repeat;
 }
 
 .header .logo {
@@ -74,7 +74,7 @@
     line-height: normal;
     font-weight: bold;
     color: #6E8095;
-    background: #2A2E3D url("image/left-bac.png") repeat;
+    background: #2A2E3D url("../image/left-bac.png") repeat;
     position: absolute;
 
     /*float: left;*/
@@ -147,7 +147,7 @@ ul span:hover {
     height: 170px;
     padding-left: 40px;
     padding-top: 10px;
-    background: url("image/file-list-bac.png") repeat;
+    background: url("../image/file-list-bac.png") repeat;
 
     /*list-style: none;*/
 }
@@ -180,7 +180,7 @@ ul span:hover {
     color: #383A4C;
     width: 1200px;
     height: 1140px;
-    background: #EDEDEC url("image/right-bac.png") repeat;
+    background: #EDEDEC url("../image/right-bac.png") repeat;
     position: absolute;
     left: 237px;
     /*float: right;*/
@@ -304,7 +304,7 @@ ul span:hover {
 .history-left {
     width: 35px;
     height: 100px;
-    background: white url("image/nav-history.png") no-repeat;
+    background: white url("../image/nav-history.png") no-repeat;
     background-position-x: -12px;
     background-position-y: 40px;
     position: absolute;
@@ -323,7 +323,7 @@ ul span:hover {
 
     display: inline-block;
     cursor: pointer;
-    background: white url("image/nav-history.png") no-repeat;
+    background: white url("../image/nav-history.png") no-repeat;
     background-position-x: 15px;
     background-position-y: 40px;
 
